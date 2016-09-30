@@ -1,1 +1,2 @@
 Hi git 
+I get it how i can edit files at git 
